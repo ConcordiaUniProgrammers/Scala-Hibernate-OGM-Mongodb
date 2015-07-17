@@ -13,7 +13,7 @@
 			<property name="hibernate.ogm.mongodb.port" value="27017" />
 			<!-- <property name="hibernate.ogm.mongodb.username" value="" />
 			<property name="hibernate.ogm.mongodb.password" value="" /> -->
-			<property name="hibernate.ogm.mongodb.database" value="databaseogm2" />
+			<property name="hibernate.ogm.mongodb.database" value="ogm-example" />
 			<property name="hibernate.ogm.mongodb.safe" value="true" />
 			<property name="hibernate.ogm.mongodb.connection_timeout"
 				value="5000" />

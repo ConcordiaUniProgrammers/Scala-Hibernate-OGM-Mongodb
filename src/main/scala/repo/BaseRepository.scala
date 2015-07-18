@@ -22,7 +22,7 @@ class BaseRepository {
 	  em.clear()
 	  em.close()
 	  emf.close()
-	
   }
+  
   
 }
